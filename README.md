@@ -1,1 +1,4 @@
+Uber Analytics
+--------------------
+
 In this report, we explore a ride-sharing dataset to determine which factors most strongly correlate with customer ratings. By analyzing variables such as vehicle type, ride duration, and booking value, we aim to provide insights that can help improve customer satisfaction in the ride-sharing industry. Over 25% of rides are cancelled by both drivers and customers, and so we will investigate the reasons and what factors lead to these cancellations.
